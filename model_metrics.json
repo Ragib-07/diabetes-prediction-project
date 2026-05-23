@@ -1,0 +1,30 @@
+[
+    {
+        "Model": "Support Vector Machine",
+        "Accuracy": 0.6558441558441559,
+        "Precision": 0.6056338028169014,
+        "Recall": 0.6323529411764706,
+        "F1-Score": 0.6187050359712231
+    },
+    {
+        "Model": "K-Nearest Neighbors",
+        "Accuracy": 0.6493506493506493,
+        "Precision": 0.609375,
+        "Recall": 0.5735294117647058,
+        "F1-Score": 0.5909090909090909
+    },
+    {
+        "Model": "Logistic Regression",
+        "Accuracy": 0.6428571428571429,
+        "Precision": 0.6031746031746031,
+        "Recall": 0.5588235294117647,
+        "F1-Score": 0.5801526717557252
+    },
+    {
+        "Model": "Random Forest",
+        "Accuracy": 0.6493506493506493,
+        "Precision": 0.6346153846153846,
+        "Recall": 0.4852941176470588,
+        "F1-Score": 0.55
+    }
+]
